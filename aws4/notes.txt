@@ -1,0 +1,12 @@
+[
+    [
+        "nat-0faaf62d470051408",
+        "available"
+    ]
+]
+[
+    "18.142.152.156"
+]
+[
+    "283548940416.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/helodevops"
+]
