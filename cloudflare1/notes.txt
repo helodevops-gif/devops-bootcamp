@@ -1,0 +1,3 @@
+nameserver: kira.ns.cloudflare.com, kolton.ns.cloudflare.com
+portfolio: helodevops-gif.github.io, helodevops.my
+private-site: private.helodevops.my
